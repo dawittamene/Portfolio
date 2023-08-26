@@ -148,6 +148,11 @@ h6{font-size: 16px;}
     object-fit: cover;
     border: 2px solid var(--borderColor);
     border-radius: 50%;
+    transition: 1s;
+}
+
+#profile_pic:hover{
+    transform: scale(1.2);
 }
 
 .right-wrapper{
@@ -227,12 +232,17 @@ h6{font-size: 16px;}
 }
 .post{
     border: 1px solid var(--borderColor);
+    
 }
 .thumnali{
     display: block;
     width: 100%;
     height: 100px;
     object-fit: cover;
+    transition: 1s;
+}
+.thumnali:hover{
+    transform: scale(1.2);
 }
 
 .post-preview{
