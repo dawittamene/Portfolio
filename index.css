@@ -7,6 +7,7 @@
     --previewBg: rgb(251, 249, 243,0.8);
     --previewShadow: #f0ead6;
     --btnColor: black;
+    --orange:#ffa500;
 }
 
 
@@ -351,6 +352,19 @@ h6{font-size: 16px;}
     color: var(--orange);
 }
 
+
+.footer .credit{
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #fff;
+    border-top: .1rem solid rgba(255, 255, 255, .2);
+}
+.footer .credit span{
+    color: var(--orange);
+}
 
 
 
