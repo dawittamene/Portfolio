@@ -304,7 +304,7 @@ h6{font-size: 16px;}
 .footer .box-container{
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .footer .box-container .box{
@@ -314,7 +314,7 @@ h6{font-size: 16px;}
 
 .footer .box-container .box h3{
     font-size: 1.5rem;
-    padding: 3rem 0;
+    padding: 1rem 0;
     color: #fff;
 }
 
@@ -328,7 +328,7 @@ h6{font-size: 16px;}
 .footer .box-container .box a{
     display: block;
     font-size: 1.5rem;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     color: #fff;
 }
 
