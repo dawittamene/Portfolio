@@ -305,6 +305,7 @@ h6{font-size: 16px;}
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+    padding-left: 20px;
 }
 
 .footer .box-container .box{
