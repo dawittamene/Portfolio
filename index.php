@@ -17,7 +17,7 @@
     <section class="s1">
         <div class="main-container">
             <div class="greating-wrapper">
-                <h1>Hi, I'm dawit tamene</h1>
+                <h1>Hi, I'm Dawit Tamene</h1>
             </div>
 
             <div class="intro-wrapper">
@@ -155,23 +155,23 @@
                         <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
                         <li> Python</li><br>
                        
-                        <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
+                        <img class="thumnali" id="social"  src="images/django.png" alt="not exist"><br>
                         <li>Django</li><br>
                         
-                        <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
+                        <img class="thumnali" id="social"  src="images/java.png" alt="not exist"><br>
                         <li>Javascript</li><br>
                     </ul>
 
 
                     <ul>
                         
-                        <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
+                        <img class="thumnali" id="social"  src="images/html.png" alt="not exist"><br>
                         <li>Html</li><br>
                         
-                        <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
+                        <img class="thumnali" id="social"  src="images/css.png" alt="not exist"><br>
                         <li>Css</li><br>
                         
-                        <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
+                        <img class="thumnali" id="social"  src="images/php1.png" alt="not exist"><br>
                         <li>Php</li><br>
                     </ul>
                 </div>
